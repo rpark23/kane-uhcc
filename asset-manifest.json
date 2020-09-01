@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kane-uhcc/static/css/main.3f9cfb5c.chunk.css",
+    "main.js": "/kane-uhcc/static/js/main.c54e3558.chunk.js",
+    "main.js.map": "/kane-uhcc/static/js/main.c54e3558.chunk.js.map",
+    "runtime-main.js": "/kane-uhcc/static/js/runtime-main.17ea1988.js",
+    "runtime-main.js.map": "/kane-uhcc/static/js/runtime-main.17ea1988.js.map",
+    "static/js/2.f8aa90de.chunk.js": "/kane-uhcc/static/js/2.f8aa90de.chunk.js",
+    "static/js/2.f8aa90de.chunk.js.map": "/kane-uhcc/static/js/2.f8aa90de.chunk.js.map",
+    "index.html": "/kane-uhcc/index.html",
+    "precache-manifest.485df60ddda614de5ae08857498092cd.js": "/kane-uhcc/precache-manifest.485df60ddda614de5ae08857498092cd.js",
+    "service-worker.js": "/kane-uhcc/service-worker.js",
+    "static/css/main.3f9cfb5c.chunk.css.map": "/kane-uhcc/static/css/main.3f9cfb5c.chunk.css.map",
+    "static/js/2.f8aa90de.chunk.js.LICENSE.txt": "/kane-uhcc/static/js/2.f8aa90de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17ea1988.js",
+    "static/js/2.f8aa90de.chunk.js",
+    "static/css/main.3f9cfb5c.chunk.css",
+    "static/js/main.c54e3558.chunk.js"
+  ]
+}
