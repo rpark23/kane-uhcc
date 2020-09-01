@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7517a813ace3b9f166974c7ec82aecbe",
+    "revision": "35cfb929ef43c29a655d2796985eecbc",
     "url": "/kane-uhcc/index.html"
   },
   {
-    "revision": "99e3296f43f2ba91baf4",
-    "url": "/kane-uhcc/static/css/main.3f9cfb5c.chunk.css"
+    "revision": "4af43b73ec0d972d12a2",
+    "url": "/kane-uhcc/static/css/main.a8fb6d8d.chunk.css"
   },
   {
     "revision": "957ea1ae77b0816caf65",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kane-uhcc/static/js/2.f8aa90de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99e3296f43f2ba91baf4",
-    "url": "/kane-uhcc/static/js/main.8e4f3e76.chunk.js"
+    "revision": "4af43b73ec0d972d12a2",
+    "url": "/kane-uhcc/static/js/main.8e2833c5.chunk.js"
   },
   {
     "revision": "d17ff4583d2433fd246e",
