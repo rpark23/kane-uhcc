@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kane-uhcc/precache-manifest.485df60ddda614de5ae08857498092cd.js"
+  "/kane-uhcc/precache-manifest.37c1f08d9c01b808f124e90e361a5587.js"
 );
 
 self.addEventListener('message', (event) => {
