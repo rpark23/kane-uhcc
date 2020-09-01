@@ -31,20 +31,20 @@ export class AiPono extends Component {
         <div className="landing">
           <div className="text">
             <h2>‘Ai Pono Module</h2>
-            <img src="kane-uhcc/img/meal.jpg" />
+            <img src="img/meal.jpg" />
             <h3>I ola no ke kino i ka mā‘ona o ka ‘ōpū</h3>
             <em>
               <h4>The body enjoys health when the stomach is well filled</h4>
             </em>
           </div>
-          <img src="kane-uhcc/img/meal.jpg" />
+          <img src="img/meal.jpg" />
         </div>
         <div className="content">
           <div className="recipes">
             <h2>Recipes</h2>
             <div className="dish">
               <div className="show">
-                <img src="kane-uhcc/img/lawalu.jpg" alt="Lawalu" />
+                <img src="img/lawalu.jpg" alt="Lawalu" />
                 <button className="expandable">Lawalu</button>
               </div>
               <div className="text">
@@ -76,7 +76,7 @@ export class AiPono extends Component {
 
             <div className="dish">
               <div className="show">
-                <img src="kane-uhcc/img/poke.jpg" alt="Poke" />
+                <img src="img/poke.jpg" alt="Poke" />
                 <button className="expandable">Poke</button>
               </div>
               <div className="text">
@@ -124,7 +124,7 @@ export class AiPono extends Component {
 
             <div className="dish">
               <div className="show">
-                <img src="kane-uhcc/img/salad.jpg" alt="Salad" />
+                <img src="img/salad.jpg" alt="Salad" />
                 <button className="expandable">Salad</button>
               </div>
               <div className="text">
@@ -146,10 +146,7 @@ export class AiPono extends Component {
 
             <div className="dish">
               <div className="show">
-                <img
-                  src="kane-uhcc/img/dessert.jpg"
-                  alt="Maui Superman Dessert"
-                />
+                <img src="img/dessert.jpg" alt="Maui Superman Dessert" />
                 <button className="expandable">Maui Superman Dessert</button>
               </div>
               <div className="text">
