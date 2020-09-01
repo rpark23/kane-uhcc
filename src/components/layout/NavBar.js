@@ -36,7 +36,7 @@ class NavBar extends Component {
 
     return (
       <div className="nav-container" id="nav">
-        <Link to="/">
+        <Link to="/kane-uhcc">
           <div className="logo">
             <a href="index.html">
               <h1>The Kāne Initiative</h1>
@@ -45,13 +45,13 @@ class NavBar extends Component {
         </Link>
         <ul className="nav-links" id="nav-links">
           <li className="nav-link">
-            <Link to="/aipono">‘Ai Pono</Link>
+            <Link to="/kane-uhcc/aipono">‘Ai Pono</Link>
           </li>
           <li className="nav-link">
-            <Link to="/kaula">Kaula</Link>
+            <Link to="/kane-uhcc/kaula">Kaula</Link>
           </li>
           <li className="nav-link">
-            <Link to="/lokoia">Loko I‘a</Link>
+            <Link to="/kane-uhcc/lokoia">Loko I‘a</Link>
           </li>
         </ul>
         <div class="burger" id="burger">

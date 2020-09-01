@@ -22,10 +22,10 @@ function App() {
         <Router>
           <NavBar />
           <Switch>
-            <Route path="/" exact component={Home} />
-            <Route path="/aipono" exact component={AiPono} />
-            <Route path="/kaula" exact component={Kaula} />
-            <Route path="/lokoia" exact component={Lokoia} />
+            <Route path="/kane-uhcc" exact component={Home} />
+            <Route path="/kane-uhcc/aipono" exact component={AiPono} />
+            <Route path="/kane-uhcc/kaula" exact component={Kaula} />
+            <Route path="/kane-uhcc/lokoia" exact component={Lokoia} />
           </Switch>
         </Router>
       </div>
